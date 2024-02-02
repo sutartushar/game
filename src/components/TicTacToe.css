@@ -1,0 +1,14 @@
+table {
+  border: 2px solid white;
+  border-collapse: collapse;
+  margin-left: 37%;
+  margin-top: 5%;
+}
+
+td {
+  border: 1px solid white;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  padding: 30px;
+}
